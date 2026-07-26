@@ -2,8 +2,7 @@
   "name": "blog",
   "compatibility_date": "2024-04-01",
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
+    "directory": "./public"
   },
   "build": {
     "command": "npx quartz build"
